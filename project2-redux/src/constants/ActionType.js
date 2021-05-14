@@ -1,0 +1,12 @@
+export const LIST_ALL = 'LIST_ALL';
+export const ADD_TASK = 'ADD_TASK';
+export const TOGGLE_FORM ='TOGGLE_FORM';
+export const CLOSE_FORM = 'CLOSE_FORM';
+export const OPEN_FORM = 'OPEN_FORM';
+export const CHANGE_STATUS = 'CHANGE_STATUS';
+export const DELETE = 'DELETE';
+export const EDIT_TASK = 'EDIT_TASK';
+export const CLEAR_TASK = 'CLEAR_TASK';
+export const FILTER_TABLE = 'FILTER_TABLE'; // filter in table 
+export const SEARCH = 'SEARCH';
+export const SORT = 'SORT';
